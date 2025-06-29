@@ -20,7 +20,7 @@
 ## 🎬 项目演示
 
 **GUI 界面截图:**
-![GUI截图](Docs/gui.png)
+![GUI截图](Docs/GUI.png)
 
 ---
 
